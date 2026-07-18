@@ -41,6 +41,7 @@ The complete design was verified through RTL simulation and validated on the Ter
 - FPGA implementation on DE1-SoC
 - Seven-segment display output
 - Hardware validation
+<img width="1536" height="1024" alt="FIFO-based communication system architecture" src="https://github.com/user-attachments/assets/c740cf71-fb5e-4919-9362-f29fdb5f48e3" />
 
 ---
 
